@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">AA Br Combustível Ideal</string>
+    <string name="title_activity_settings" translatable="false">@string/app_name</string>
+
+    <!-- Preference Titles -->
+
+    <string name="title_how_to">"Fale os preços e fale a vírgula entre os preços também, dessa forma:"</string>
+    <string name="title_how_to_speak">"Cinco ponto zero dois vírgula três ponto sete oito virgula....(ETC)"</string>
+    <string name="speech_recognition_language_title">""</string>
+    <string name="speech_recognition_language">"SISTEMA AUTO CONFIGURÁVEL:"</string>
+    <string name="display_language">"NÃO É NECESSÁRIA NENHUMA AÇÃO."</string>
+    <string name="new_speech_recognition">New speech recognition</string>
+    <string name="recording_in_progress">"Gravação em andamento..."</string>
+    <string name="recording_complete">"Gravação completa !!!"</string>
+    <string name="contact_hot_word">" assim: Cinco "</string>
+    <string name="opening_mas_in">"Opening maps in "</string>
+    <string name="seconds">" seconds"</string>
+    <string name="open_map_now">Open map now</string>
+    <string name="route_to">"Voltar à tela anterior"</string>
+    <string name="end_recording">End recording</string>
+    <string name="say_address">"Fale o preço"</string>
+    <string name="contact_name_or">"ponto zero dois"</string>
+    <string name="open_settings_in_phone">Open settings in phone</string>
+    <string name="aa_text_to_speech_settings_opened_in_phone">AA Speech to Text settings opened in phone</string>
+    <string name="settings">Settings</string>
+    <string name="contacts">Contacts</string>
+    <string name="open_app_settings_in_phone_to_grant_recording_permissions">Open app settings in phone to grant recording permission</string>
+    <string name="open_in_phone_for_permissions">Open app in phone to grant needed permissions</string>
+    <string name="language_hot_word">" (5.02)"</string>
+    <string name="language_name">""</string>
+    <string name="speech_recongition_cancelled">Speech recognition cancelled</string>
+    <string name="voice_command_not_recognized">Voice command not recognized</string>
+    <string name="confirmation_delay">""</string>
+    <string name="navigation">"SISTEMA PRONTO PARA USO !!!"</string>
+</resources>

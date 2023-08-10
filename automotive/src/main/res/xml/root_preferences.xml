@@ -1,0 +1,24 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+    <PreferenceCategory app:title="@string/speech_recognition_language">
+        <ListPreference
+            app:entries="@array/speech_recognition_language_entries"
+            app:entryValues="@array/speech_recognition_language_values"
+            app:key="speech_recognition_language"
+            app:title="@string/speech_recognition_language_title"></ListPreference>
+    </PreferenceCategory>
+
+    <PreferenceCategory app:title="@string/display_language">
+        <ListPreference
+            app:entries="@array/display_language_entries"
+            app:entryValues="@array/display_language_values"
+            app:key="display_language"
+            app:title="@string/speech_recognition_language_title"></ListPreference>
+    </PreferenceCategory>
+
+    <PreferenceCategory app:title="@string/navigation">
+        <EditTextPreference app:key="confirmation_delay"
+            app:title="@string/confirmation_delay"
+            ></EditTextPreference>
+    </PreferenceCategory>
+
+</PreferenceScreen>
